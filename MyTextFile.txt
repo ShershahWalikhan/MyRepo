@@ -1,0 +1,9 @@
+this is my text file.
+
+commands
+
+git add * OR git add .
+git config user.name "Your Name"
+git config user.email "youremail@yourdomain.com"
+git commit -m "this is text file"
+git push
